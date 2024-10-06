@@ -4,7 +4,7 @@
 
 This repository is part of the deliverables for my MSc AI module. Unauthorized reproduction of this project, including for plagiarism or any form of academic dishonesty, is strictly prohibited. The content is intended to showcase my skills and may be used for reference purposes only with proper attribution.
 
-## :scroll: Description:
+## :scroll: Description
 This repository involves the implementation of four algorithms for an AI route finder using agenda-based search mechanism.
 
 The four algorithms used are:
